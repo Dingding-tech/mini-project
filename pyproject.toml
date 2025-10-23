@@ -15,4 +15,4 @@ description = "Have some fun~ "  # 项目描述（可选）
 [project.scripts]
 # 格式：命令名 = "模块.函数或类"
 # 例如：当用户执行 `fun_cmd` 命令时，会调用 fun模块下main.py中的main函数
-have_fun = "fun.main:main"
+have_fun = "fun.main:run"
