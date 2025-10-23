@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "fun"  # 你的项目名称（自定义，如 "my_local_tool"）
-version = "0.1.0"           # 版本号（自定义，遵循语义化版本，如 0.1.0、1.0.0）
+version = "0.1.1"           # 版本号（自定义，遵循语义化版本，如 0.1.0、1.0.0）
 authors = [                 # 作者信息（可选，但建议填写，方便识别）
   { name="Li Ding", email="li.ding@zhichun.org" }  # 邮箱可选，可删
 ]
