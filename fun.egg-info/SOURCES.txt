@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+fun/__init__.py
+fun/main.py
+fun/utils.py
+fun.egg-info/PKG-INFO
+fun.egg-info/SOURCES.txt
+fun.egg-info/dependency_links.txt
+fun.egg-info/entry_points.txt
+fun.egg-info/top_level.txt
+test/test.py

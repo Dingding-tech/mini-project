@@ -1,0 +1,2 @@
+[console_scripts]
+have_fun = fun.main:run
